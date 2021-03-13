@@ -1,3 +1,4 @@
+echo "hi dai"
 echo "the while function starts"
 read a
 while [ $a -gt 7 ]
