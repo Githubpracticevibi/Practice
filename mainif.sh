@@ -1,4 +1,5 @@
 echo "dai"
+echo "dai macha"
 echo "the main file 2"
 echo "the main file 1"
 echo "if condi starts"
