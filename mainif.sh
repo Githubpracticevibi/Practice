@@ -1,3 +1,4 @@
+echo "hi updating"
 echo "if condi starts"
 if [ -r $1 ]
 then
