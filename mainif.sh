@@ -1,3 +1,4 @@
+echo "updating1"
 echo "updating"
 echo "again dai"
 echo "dai"
