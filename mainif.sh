@@ -1,3 +1,4 @@
+echo "again dai"
 echo "dai"
 echo "dai macha"
 echo "the main file 2"
