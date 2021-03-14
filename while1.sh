@@ -1,3 +1,4 @@
+echo "the while start"
 echo "the while function starts"
 read a
 while [ $a -gt 7 ]
